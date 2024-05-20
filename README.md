@@ -1,8 +1,8 @@
-PowerApps Product Management Application
+PowerApps Product Management Application developed for NTT as part of a Technical Assessment.
 
 
 
-This repository contains the files and documentation for the PowerApps Product Management Application.
+This repository contains the files for the PowerApps Product Management Application, documentation, reports and a video demo.
 
 The application enables users to manage product information through viewing, sorting, creating, editing, and deleting products. 
 
